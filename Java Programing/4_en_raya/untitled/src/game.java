@@ -4,7 +4,7 @@ public class game {
     public game(){
         this.jugador1 = 'O';
         this.jugador2 = 'X';
+        tablero partida = new tablero();
     }
-    
 
 }

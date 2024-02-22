@@ -1,5 +1,6 @@
 public class main {
-game party1 = new game();
-
-
+    public static void main(String[] args) {
+        tablero party1 = new tablero();
+        party1.imprimirTaula();
+    }
 }
